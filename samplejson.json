@@ -3,62 +3,62 @@
   "data": [
     {
       "name": "Hope",
-      "url": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/Hope.deepar",
-      "thumb": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/diffuse.png",
+      "url": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/Hope.deepar",
+      "thumb": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/diffuse.png",
       "type": "free"
     },
     {
       "name": "Humanoid",
-      "url": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/Humanoid.deepar",
-      "thumb": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/face_multiply.png",
+      "url": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/Humanoid.deepar",
+      "thumb": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/face_multiply.png",
       "type": "paid"
     },
     {
       "name": "Makeup Look",
-      "url": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/MakeupLook.deepar",
-      "thumb": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/frame000000.png",
+      "url": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/MakeupLook.deepar",
+      "thumb": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/frame000000.png",
       "type": "free"
     },
     {
       "name": "Neon Devil Horns",
-      "url": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/Neon_Devil_Horns.deepar",
-      "thumb": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/normal_map.png",
+      "url": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/Neon_Devil_Horns.deepar",
+      "thumb": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/normal_map.png",
       "type": "paid"
     },
     {
       "name": "Ping Pong",
-      "url": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/Ping_Pong.deepar",
-      "thumb": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/trunk_multiply.png",
+      "url": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/Ping_Pong.deepar",
+      "thumb": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/trunk_multiply.png",
       "type": "free"
     },
     {
       "name": "Pixel Hearts",
-      "url": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/Pixel_Hearts.deepar",
-      "thumb": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/diffuse.png",
+      "url": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/Pixel_Hearts.deepar",
+      "thumb": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/diffuse.png",
       "type": "paid"
     },
     {
       "name": "Snail",
-      "url": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/Snail.deepar",
-      "thumb": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/face_multiply.png",
+      "url": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/Snail.deepar",
+      "thumb": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/face_multiply.png",
       "type": "free"
     },
     {
       "name": "Split View Look",
-      "url": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/Split_View_Look.deepar",
-      "thumb": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/frame000000.png",
+      "url": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/Split_View_Look.deepar",
+      "thumb": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/frame000000.png",
       "type": "paid"
     },
     {
       "name": "Stallone",
-      "url": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/Stallone.deepar",
-      "thumb": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/normal_map.png",
+      "url": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/Stallone.deepar",
+      "thumb": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/normal_map.png",
       "type": "free"
     },
     {
       "name": "Galaxy Background",
-      "url": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/galaxy_background.deepar",
-      "thumb": "https://github.com/developerashish01/deepar-filters/raw/refs/heads/main/trunk_multiply.png",
+      "url": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/galaxy_background.deepar",
+      "thumb": "https://raw.githubusercontent.com/developerashish01/deepar-filters/refs/heads/main/trunk_multiply.png",
       "type": "paid"
     }
   ]
